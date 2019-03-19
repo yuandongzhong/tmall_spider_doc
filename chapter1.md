@@ -4,8 +4,9 @@
 
 #### 搭建Python环境
 
-1. [点击链接下载Miniconda](https://docs.conda.io/en/latest/miniconda.html)  （Python 3.7 / Windows 64-bit \)
-2. 安装
-
+1. 下载Miniconda  （Python 3.7 / Windows 64-bit \)
+   * [链接： https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+2. 安装Miniconda
+3. 
 
 
