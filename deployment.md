@@ -9,9 +9,8 @@
 ![](assets/html_content_blocker.png)
 
 * 配置插件Random User-Agent
-
 * 
-#### 
+
 
 #### 搭建Python环境
 
@@ -20,6 +19,7 @@
    * [链接： https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
 2. 安装Miniconda
+
 3. 启动Anaconda Prompt
 4. 
 
