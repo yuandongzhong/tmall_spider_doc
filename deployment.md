@@ -34,7 +34,3 @@
 
 `conda create -n tmall_spider --clone \\path`
 
-
-
-
-
