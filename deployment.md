@@ -4,8 +4,6 @@
 
 ###### [搭建Python环境](#搭建python环境)
 
-
-
 ### 安装和设置Chrome
 
 * 用deployment文件夹里的安装文件安装Chrome浏览器
@@ -20,7 +18,7 @@
 
 #### 
 
-### 搭建Python环境 {#env}
+### 搭建Python环境
 
 * 下载Miniconda  （Python 3.7 / Windows 64-bit \)
 
