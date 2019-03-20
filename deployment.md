@@ -6,7 +6,7 @@
 * 安装deployment/extensions/文件夹里的插件
 * 配置插件Html Content Blocker，打开image和media开关
 
-![](assets/html_content_blocker.png)
+![](/assets/content_blocker.png)
 
 * 配置插件Random User-Agent, 按照下面截图选择配置
 
