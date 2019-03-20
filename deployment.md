@@ -1,7 +1,5 @@
 # 环境部署
 
-
-
 ### 安装和设置Chrome
 
 * 用deployment文件夹里的安装文件安装Chrome浏览器
@@ -18,14 +16,18 @@
 
 ### 搭建Python环境
 
-1. 下载Miniconda  （Python 3.7 / Windows 64-bit \)
+* 下载Miniconda  （Python 3.7 / Windows 64-bit \)
 
-   * [链接： https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
+  * [链接： https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
-2. 安装Miniconda
+* 安装Miniconda
 
-3. 启动Anaconda Prompt
+* 启动Anaconda Prompt
 
-4. 
+* 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
+
+`conda create -n tmall_spider --clone \\path`
+
+* 
 
 
