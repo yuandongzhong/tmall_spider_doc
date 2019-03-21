@@ -20,7 +20,7 @@
 
 ![](/assets/ua.png)
 
-#### 
+---
 
 ### 搭建Python环境
 
@@ -35,6 +35,8 @@
 * 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
 
 `conda create -n tmall_spider --clone \\path`
+
+---
 
 ### 安装MongoDB
 
