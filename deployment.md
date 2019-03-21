@@ -4,7 +4,9 @@
 
 ###### [搭建Python环境](#搭建python环境)
 
-###### 安装MONGODB 
+###### [安装MONGODB](#安装mongodb)
+
+---
 
 ### 安装和设置Chrome
 
@@ -34,15 +36,18 @@
 
 `conda create -n tmall_spider --clone \\path`
 
-
-
-
-
 ### 安装MongoDB
 
+* 从官网下载MSI安装文件
 
 
-* 
+
+
+
+
+
+
+
 
 
 
