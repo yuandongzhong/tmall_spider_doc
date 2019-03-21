@@ -39,20 +39,7 @@
 ### 安装MongoDB
 
 * 从官网下载MSI安装文件
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 根据deployment文件夹里的附件【MongoDB安装指南】安装和设置Mongdob数据库
 
 
 
