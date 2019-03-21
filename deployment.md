@@ -35,7 +35,7 @@
 
 ### 安装MongoDB
 
-* [https://blog.csdn.net/zha6476003/article/details/86704201](https://blog.csdn.net/zha6476003/article/details/86704201)
+* 用deployment/installers/里的安装文件来安装MongoDB
 
 
 
