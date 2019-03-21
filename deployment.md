@@ -4,6 +4,8 @@
 
 ###### [搭建Python环境](#搭建python环境)
 
+###### 安装MONGODB 
+
 ### 安装和设置Chrome
 
 * 用deployment文件夹里的安装文件安装Chrome浏览器
@@ -31,6 +33,21 @@
 * 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
 
 `conda create -n tmall_spider --clone \\path`
+
+
+
+
+
+### 安装MongoDB
+
+
+
+* 
+
+
+
+
+
 
 
 
