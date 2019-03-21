@@ -4,7 +4,13 @@
 2. 把文件复制到taobaospider/taobaospider里面
 3. 在Window系统打开Anaconda Prompt命令行程序
 4. 用cd命令，把当前位置移动到taobaospider/taobaospider里面
-5. 输入以下命令， 程序就会自动开始爬取
+5. 输入以下命令激活虚拟环境
+6. ```
+   conda activate tmall_spider
+   ```
+7. 程序就会自动开始爬取
+
+
 
 
 
