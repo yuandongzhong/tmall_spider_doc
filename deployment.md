@@ -24,12 +24,7 @@
 
 ### 搭建Python环境
 
-* 下载Miniconda  （Python 3.7 / Windows 64-bit \)
-
-  * [链接： https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
-
-* 安装Miniconda
-
+* 用deployment/installers/里的安装文件来安装Miniconda
 * 启动Anaconda Prompt （用管理员身份）
 
 * 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
