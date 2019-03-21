@@ -30,7 +30,7 @@
 
 * 安装Miniconda
 
-* 启动Anaconda Prompt
+* 启动Anaconda Prompt （用管理员身份）
 
 * 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
 
