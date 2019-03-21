@@ -10,7 +10,7 @@
 
 ### 安装和设置Chrome
 
-* 用deployment文件夹里的安装文件安装Chrome浏览器
+* 用deployment/installers/里的安装文件来安装Chrome
 * 安装deployment/extensions/文件夹里的插件
 * 配置插件Html Content Blocker，打开image和media开关
 
