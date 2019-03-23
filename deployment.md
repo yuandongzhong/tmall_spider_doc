@@ -28,9 +28,9 @@
   * [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 * 启动Anaconda Prompt （用管理员身份）
 
-* 输入以下命令安装虚拟环境， 把path改为depolyment\tmall\_spider的系统路径
+* 移动到/deployment/路径， 输入以下命令安装虚拟环境 
 
-`conda create -n tmall_spider --clone path`
+`conda env create -f env.yml`
 
 ---
 
