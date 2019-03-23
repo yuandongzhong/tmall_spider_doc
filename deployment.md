@@ -28,15 +28,22 @@
   * [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 * 启动Anaconda Prompt （用管理员身份）
 
-* 移动到/deployment/路径， 输入以下命令安装虚拟环境 
+* 移动到/deployment/路径， 输入以下命令安装虚拟环境
 
 `conda env create -f env.yml`
+
+* 启动虚拟环境
+
+```
+conda activate tmall_spider
+```
 
 ---
 
 ### 安装MongoDB
 
-* 用deployment/installers/里的安装文件来安装MongoDB
+* 下载并安装MongoDB数据库（Windows / MSI\)
+  * [https://www.mongodb.com/download-center/community](https://www.mongodb.com/download-center/community)
 
 
 
